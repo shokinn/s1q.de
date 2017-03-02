@@ -56,7 +56,7 @@
 					<div class="mastfoot">
 						<div class="inner">
 							<p>
-                            <a href="#imprint" data-toggle="modal">Impressum</a> - <a href="#privacypolicy" data-toggle="modal">Datenschutzerklaerung</a> - <a href="#sshpubkey" data-toggle="modal">SSH Public-Key</a> - <a href="https://keybase.io/philip_henning">Ich auf Keybase.io</a>
+                            <a href="#imprint" data-toggle="modal">Impressum</a> - <a href="#privacypolicy" data-toggle="modal">Datenschutzerklaerung</a> - <a href="#sshpubkey" data-toggle="modal">SSH public key</a> - <a href="#pgppubkey" data-toggle="modal">PGP public key</a> - <a href="https://keybase.io/philip_henning">My entry on Keybase.io</a> - <a href="./.well-known/keybase.txt">My Keybase.io proofs'</a>
 							</p>
 						</div>
 					</div>
@@ -201,12 +201,13 @@
 				</div>
 			</div>
 		</div>
+
         <div class="modal fade" id="sshpubkey" role="dialog" style="color:#000">
 			<div class="modal-dialog">
 				<div class="modal-content imprint">
 					<div class="modal-header">
 						<h2>
-							SSH Public-Key
+							SSH public key
 						</h2>
 					</div>
 					<div class="modal-body" style="text-align:left">
@@ -217,7 +218,7 @@
                             <pre>71:72:8d:23:dd:13:ea:90:17:35:4e:0a:2b:c7:d5:91</pre>
                         </p>
                         <p>
-                            <strong>SSH Public-Key</strong>
+                            <strong>SSH public key</strong>
                         </p>
                         <pre>---- BEGIN SSH2 PUBLIC KEY ----
 Comment: "Philip Henning (mail@philip-henning.com)"
@@ -234,10 +235,88 @@ LSHRh8U/7fFzbAD4jJH29D9nHz46hx0OdEtiDJoeujf+GLXw4c7P2G+IYlPVg6sP
 J5W+oky5gboQh13IOnFXFXd5kYuWnzOU/4ITy4vHw2WowbCYMFY5GNrRzRMpmcIj
 55OXrwM=
 ---- END SSH2 PUBLIC KEY ----</pre>
+                        <p>
+                            <strong>As one-liner</strong>
+                        </p>
+                        <pre>ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAgEAwVT82+FIbeVNjJ3Waa3Z0ysmG+DNhX6qUN5C2o3lT158WCcWgDU5qs/DgJDQFVK+m33cvozdaoV2sreSHmKLlM77k5zU+OTDswrEaJ53CRSu7tgT6ZRI2ggxzhvrw6xq1bmTlSuaojSmaJNDZllgFtrlG1XXGSgkgyDtyJuUk16MwKU4zLAWOluwrZBMIvlafNnJS4K385rI2NNIMUvWHjfxYTxAFAtqBZFacz/kQ9jm4UYT+v7YOXu48Cgul6S51eNbK0rUe7DU7+1xzusdhyqHq7FnFugvW6OYy3ft3y/ri/7qvKAhtwQSo6A8cgLVlPnMKdDWq/QAC6dLGcUEHJPJDYumMpM6ijrfd1DCpB+ELr/dFHgR5l6++OJM2/kl4f3ue1gp5b//6osnfMhWrQXbmk8WLF31IXmaZnwlcKKEvgNQL5O9U39HRuZBvXh5aib/vFtQ5ge6l1wG+eFLrMHjeLPDYCYuNliPisjmLNUb+0KyfDR2KnrqwZVXMOiKdh+S4OaXW7T+woykZ3u7FODfZwcRdnEgZFxYLSHRh8U/7fFzbAD4jJH29D9nHz46hx0OdEtiDJoeujf+GLXw4c7P2G+IYlPVg6sPJ5W+oky5gboQh13IOnFXFXd5kYuWnzOU/4ITy4vHw2WowbCYMFY5GNrRzRMpmcIj55OXrwM= 71:72:8d:23:dd:13:ea:90:17:35:4e:0a:2b:c7:d5:91 Philip Henning (mail@philip-henning.com)</pre>
+                    </div>
+                    <div class="modal-header">
+                    </div>
+                    <div class="modal-body" style="text-align:left">
+                        <p>
+                            Download: <a href="./assets/ssh_mail@philip-henning.com.pub">ssh_mail@philip-henning.com.pub</a><br />
+                            Download one-liner: <a href="./assets/ssh_ol_mail@philip-henning.com.pub">ssh_ol_mail@philip-henning.com.pub</a>
+                        </p>
                     </div>
                     <div class="modal-footer">
 						<a class="btn btn-default" data-dismiss="modal">Close</a>
 					</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="pgppubkey" role="dialog" style="color:#000">
+            <div class="modal-dialog">
+                <div class="modal-content imprint">
+                    <div class="modal-header">
+                        <h2>
+                            PGP public key
+                        </h2>
+                    </div>
+                    <div class="modal-body" style="text-align:left">
+                        <p>
+                            <strong>Fingerprint</strong>
+                        </p>
+                        <p>
+                            <pre>A171 CB48 9D79 2B23 FFD1 23C7 E24C 1780 06ED 3FBF</pre>
+                        </p>
+                        <p>
+                            <strong>PGP public key</strong>
+                        </p>
+                        <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQINBFMbVwsBEAD0SZd7ybTv8wjQCS3qzkO9aOfwwvWAnvI2hHqk7lu31VLL6uo4
+4WyJgtqZ/Vj0+sZAztFIg/R/POYe8CYYZ5PD22YhhUdj5tepi1X29jPgZfpekYQ5
+iHPNPcZHSzVTGm3n+6fZOT/Hem65d+uCMWuKrBpBX1rCPBJrL4RSSyShPeRqVqsO
+hreyc/qA+6N+WNakY/qN/vo0jqzYreZXlFEE2hxOUf+KQbLc2xUBOEaynNi252V0
+G7Cs6ONbQFMJJLFLMoKAnsynehnQqFQ5lJW6jo4TI98Ih5x5+Ys2v1MCLvdOO54k
+ieB+1+5O1W5NXnCvZUOdyXGXeKpLhTjJYXM3U2JADeCghh8mPfQ+Zasd1BhvMoCB
+GWs2X7u6Wfdrwwh7aGRoIpTyCngGqPTubysLLmblTAsNz61OILpNscc7WYGL2rci
+ZoaIKCYcUV6C46GiHXVAbF2rnPz8sWI2cIyIctDZxhaHSITqGm3/LXXIDtrQnVQn
+qakexQIS+2aGe2fBqaSJVCgT1/k26IpTI5FF7Gubp5HteYrZdJQK/IyYbrMkERDC
+b2dAbH7iB6ruWAxPWE605rihL6+ymlZ45zn/3rNqOqZdhSw8sfeQBj3i+zCdqyB5
+KBGCet1eauGgPaQVabIJphdt8xYypzh/KpEPJB+WhWYrHLS2rF1msErrCQARAQAB
+tChQaGlsaXAgSGVubmluZyA8bWFpbEBwaGlsaXAtaGVubmluZy5jb20+iQI5BBMB
+AgAjBQJTG1cLAhsPBwsJCAcDAgEGFQgCCQoLBBYCAwECHgECF4AACgkQ4kwXgAbt
+P79eCA//XWcjlKiXk2IHaZZ5VT/qplUm8pz9JeQY7AX8OuOPKmO1NN0JTZ0SmEDS
+QOeXPYtc6Nd1ZJjK9zrxQvgF9Z9jjz6i+oL+Nslg3VN04gbQrNkRc+VQR7/rkQra
+XzDEz9GuDi0epIbrnFokSaJQsks8TGAjjYBXVevDONX/IP3HCfGUiDw5HcxeDkiA
+zl11mQSYM1RaYjBQatAX+ntuNsoMWQ6Rsi02+ZXe3EMFs3+TV/zQr1lrhY/ki2+M
+PHAHKoMJhZ4Niux6f/W3ZugyWjbPTgZROeUGzhY0DDU9KdmC85O+3YOs+fh/Au8a
+q2lFoj3mwjSSHEmAW5se9ksu0LNQMU0JUhMHkDTiFKfEypCNgq1k0jC48Sv5opa+
+Hv73AdqbDqpbLsino8odVVstecpgi4RgGkShsiKuG+DWULylSULl+U5VKDO1ooDx
+IOTY5E+8+wHlQrZw7j/go9PxCMwW8NeGjHOBi7b/4mjfWqrYIHANqDcTG5yePRsZ
+w+kEjqmJKUhzOCERWUKt+SDxnmDXoP9vuD4tKeYsnZuCidbd+avOiOVmWi7zmZcH
+aX0FUVuMD8nNnJqPguLOWSgR3CashihMI6FIheMUm8zC+KIdW8gGsx/T5yLW4Gr3
+4Ku2MRNJz3phFWsDkf8C4Z43yijBIRLfN50gOhjfRo1IKFEbQ72IRgQTEQIABgUC
+U3yW3QAKCRArrjz22v+wAM4kAJwM+lXGvvLrOct12CTg6SspD9SJygCfTthVZ0xx
+T23S5eQU/jQQZFxf8sI=
+=o/yv
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+                    </div>
+                    <div class="modal-header">
+                    </div>
+                    <div class="modal-body" style="text-align:left">
+                        <p>
+                            <a href="https://keybase.io/philip_henning">My entry on Keybase.io</a><br />
+                            <a href="https://keybase.io/philip_henning/pgp_keys.asc?fingerprint=a171cb489d792b23ffd123c7e24c178006ed3fbf">PGP public key on keybase.io</a><br />
+                            Download: <a href="./assets/pgp_mail@philip-henning.com.asc">pgp_mail@philip-henning.com.asc</a>
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <a class="btn btn-default" data-dismiss="modal">Close</a>
+                    </div>
                 </div>
             </div>
         </div>
