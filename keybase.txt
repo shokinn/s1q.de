@@ -1,0 +1,165 @@
+==================================================================
+https://keybase.io/philip_henning
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://philip-henning.com
+  * I am philip_henning (https://keybase.io/philip_henning) on keybase.
+  * I have a public key ASDHAfR7gdQtrg9FkVcMD42q1y65njiKWSzwN-aGgwgfxwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012096b29b0e57f90f8bc7c1f7f6624c29ea9f53d8198c291d48095581920b3a84a80a",
+            "host": "keybase.io",
+            "kid": "0120c701f47b81d42dae0f4591570c0f8daad72eb99e388a592cf037e68683081fc70a",
+            "uid": "9be9b7f508bf97ef68f8b96bd1154f19",
+            "username": "philip_henning"
+        },
+        "service": {
+            "hostname": "philip-henning.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1491558004,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491557990,
+        "hash": "3b77bc35553bb221a4deea57181ad85c8d7f3e07c96644d062b0d0d390733761d6a4824b92c040f2fec54fec171af970c2cc60a4aa0d7c457121db7c38b37b35",
+        "seqno": 1004659
+    },
+    "prev": "16f3ca44c66e7c51d61f3221825a619120e0ccb0a33cc5d189f8c9713b6d2c74",
+    "seqno": 49,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxwH0e4HULa4PRZFXDA+NqtcuuZ44ilks8DfmhoMIH8cKp3BheWxvYWTFAwJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTZiMjliMGU1N2Y5MGY4YmM3YzFmN2Y2NjI0YzI5ZWE5ZjUzZDgxOThjMjkxZDQ4MDk1NTgxOTIwYjNhODRhODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzcwMWY0N2I4MWQ0MmRhZTBmNDU5MTU3MGMwZjhkYWFkNzJlYjk5ZTM4OGE1OTJjZjAzN2U2ODY4MzA4MWZjNzBhIiwidWlkIjoiOWJlOWI3ZjUwOGJmOTdlZjY4ZjhiOTZiZDExNTRmMTkiLCJ1c2VybmFtZSI6InBoaWxpcF9oZW5uaW5nIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJwaGlsaXAtaGVubmluZy5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MTU1ODAwNCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkxNTU3OTkwLCJoYXNoIjoiM2I3N2JjMzU1NTNiYjIyMWE0ZGVlYTU3MTgxYWQ4NWM4ZDdmM2UwN2M5NjY0NGQwNjJiMGQwZDM5MDczMzc2MWQ2YTQ4MjRiOTJjMDQwZjJmZWM1NGZlYzE3MWFmOTcwYzJjYzYwYTRhYTBkN2M0NTcxMjFkYjdjMzhiMzdiMzUiLCJzZXFubyI6MTAwNDY1OX0sInByZXYiOiIxNmYzY2E0NGM2NmU3YzUxZDYxZjMyMjE4MjVhNjE5MTIwZTBjY2IwYTMzY2M1ZDE4OWY4Yzk3MTNiNmQyYzc0Iiwic2Vxbm8iOjQ5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKCNBK+HQ2mG14SjoABDJfBJTsYPojFhohXHd8V2sFBYuOSlK6HJE1o3Lg7ENaVIpk1wHAJ7IuZczY5Z4oz3Dweoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCd9ZRfwutir3/WEJI7Pl/u3ZAvbg9iSUWs5vla2Nt1f6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/philip_henning
+
+==================================================================
+
+==================================================================
+https://keybase.io/philip_henning
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pphg.tech
+  * I am philip_henning (https://keybase.io/philip_henning) on keybase.
+  * I have a public key ASDHAfR7gdQtrg9FkVcMD42q1y65njiKWSzwN-aGgwgfxwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012096b29b0e57f90f8bc7c1f7f6624c29ea9f53d8198c291d48095581920b3a84a80a",
+            "host": "keybase.io",
+            "kid": "0120c701f47b81d42dae0f4591570c0f8daad72eb99e388a592cf037e68683081fc70a",
+            "uid": "9be9b7f508bf97ef68f8b96bd1154f19",
+            "username": "philip_henning"
+        },
+        "service": {
+            "hostname": "pphg.tech",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1491560739,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491560730,
+        "hash": "ee4ec9df1a09e3c43d4e374099e46caee3f75400fb3d76139d5a9dfa7265f37029efc1bf384284ba277176e89af09bafe53133dfdeaca7ebb66923bbba1ce8e1",
+        "seqno": 1004716
+    },
+    "prev": "894dca0f692df666754a829a8a036919513e523b757ba8ddc642380cc43f4160",
+    "seqno": 54,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxwH0e4HULa4PRZFXDA+NqtcuuZ44ilks8DfmhoMIH8cKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTZiMjliMGU1N2Y5MGY4YmM3YzFmN2Y2NjI0YzI5ZWE5ZjUzZDgxOThjMjkxZDQ4MDk1NTgxOTIwYjNhODRhODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzcwMWY0N2I4MWQ0MmRhZTBmNDU5MTU3MGMwZjhkYWFkNzJlYjk5ZTM4OGE1OTJjZjAzN2U2ODY4MzA4MWZjNzBhIiwidWlkIjoiOWJlOWI3ZjUwOGJmOTdlZjY4ZjhiOTZiZDExNTRmMTkiLCJ1c2VybmFtZSI6InBoaWxpcF9oZW5uaW5nIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJwcGhnLnRlY2giLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MTU2MDczOSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkxNTYwNzMwLCJoYXNoIjoiZWU0ZWM5ZGYxYTA5ZTNjNDNkNGUzNzQwOTllNDZjYWVlM2Y3NTQwMGZiM2Q3NjEzOWQ1YTlkZmE3MjY1ZjM3MDI5ZWZjMWJmMzg0Mjg0YmEyNzcxNzZlODlhZjA5YmFmZTUzMTMzZGZkZWFjYTdlYmI2NjkyM2JiYmExY2U4ZTEiLCJzZXFubyI6MTAwNDcxNn0sInByZXYiOiI4OTRkY2EwZjY5MmRmNjY2NzU0YTgyOWE4YTAzNjkxOTUxM2U1MjNiNzU3YmE4ZGRjNjQyMzgwY2M0M2Y0MTYwIiwic2Vxbm8iOjU0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQK87L4yAQYxqzO+ZMECF34JwioB3D1zVOrd/qkHzBd9pnZ03arIAU7PU1coeFdGAI7hCkrNAqb68mWMpp9NUMgeoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDgHC+mTjpu/vCwMnXI41JtrmI/Bg/ba5N32SU3JJnQy6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/philip_henning
+
+==================================================================
+
+==================================================================
+https://keybase.io/philip_henning
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://squax.net
+  * I am philip_henning (https://keybase.io/philip_henning) on keybase.
+  * I have a public key ASDHAfR7gdQtrg9FkVcMD42q1y65njiKWSzwN-aGgwgfxwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012096b29b0e57f90f8bc7c1f7f6624c29ea9f53d8198c291d48095581920b3a84a80a",
+            "host": "keybase.io",
+            "kid": "0120c701f47b81d42dae0f4591570c0f8daad72eb99e388a592cf037e68683081fc70a",
+            "uid": "9be9b7f508bf97ef68f8b96bd1154f19",
+            "username": "philip_henning"
+        },
+        "service": {
+            "hostname": "squax.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1491560770,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491560745,
+        "hash": "05a84972c49720e3a5a4ea0d973270bfd22933f6a0230300dd99efe4d308f3b9d193e5051ce13df232aedfa9105c056b8d491122d72ffa65c8c50f6e61053411",
+        "seqno": 1004719
+    },
+    "prev": "cc3bb80faece8adf45e65ffa7f47ee6add59b5160d9fc6b53a003a5b52b96b8d",
+    "seqno": 55,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxwH0e4HULa4PRZFXDA+NqtcuuZ44ilks8DfmhoMIH8cKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTZiMjliMGU1N2Y5MGY4YmM3YzFmN2Y2NjI0YzI5ZWE5ZjUzZDgxOThjMjkxZDQ4MDk1NTgxOTIwYjNhODRhODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzcwMWY0N2I4MWQ0MmRhZTBmNDU5MTU3MGMwZjhkYWFkNzJlYjk5ZTM4OGE1OTJjZjAzN2U2ODY4MzA4MWZjNzBhIiwidWlkIjoiOWJlOWI3ZjUwOGJmOTdlZjY4ZjhiOTZiZDExNTRmMTkiLCJ1c2VybmFtZSI6InBoaWxpcF9oZW5uaW5nIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJzcXVheC5uZXQiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MTU2MDc3MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkxNTYwNzQ1LCJoYXNoIjoiMDVhODQ5NzJjNDk3MjBlM2E1YTRlYTBkOTczMjcwYmZkMjI5MzNmNmEwMjMwMzAwZGQ5OWVmZTRkMzA4ZjNiOWQxOTNlNTA1MWNlMTNkZjIzMmFlZGZhOTEwNWMwNTZiOGQ0OTExMjJkNzJmZmE2NWM4YzUwZjZlNjEwNTM0MTEiLCJzZXFubyI6MTAwNDcxOX0sInByZXYiOiJjYzNiYjgwZmFlY2U4YWRmNDVlNjVmZmE3ZjQ3ZWU2YWRkNTliNTE2MGQ5ZmM2YjUzYTAwM2E1YjUyYjk2YjhkIiwic2Vxbm8iOjU1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQBu/1YWZLq9mQVH+XQBcmBflqsOtzpQaYPsdrorM7Yfwvf9C590+G8LycwBxiJv2bxwh8knFMXb1nZhWhxZGJQ+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCC8Ok0u+qaxZzxtgPoq6FgbzwBC5tUbcLrn318g4hbTfaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/philip_henning
+
+==================================================================
+
